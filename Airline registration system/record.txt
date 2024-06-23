@@ -1,0 +1,2 @@
+Customer ID : 0Customer Name : Customer Gender : Destination : 
+Flight cost : 0
